@@ -1,3 +1,3 @@
 # Webscraping medicines
 
-This is a simple webscraping project that targets extracting available medicines in the moroccan market from the website : medicaments.ma by their names, prefix (starter alphabet of the medicine) and their prices .
+This is a webscraping project that extracts available medicines in the Moroccan market from the website: "medicaments.ma", the output is a CSV file that contains name and price columns.
